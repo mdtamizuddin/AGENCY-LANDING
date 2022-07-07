@@ -16,7 +16,7 @@ export default Navbar
 function NavbarTop() {
     return (
         <div className='lg:flex justify-between container px-5 lg:px-0 mx-auto pt-3'>
-            <p className='text-sm lg:text-base'>Trendy theme for companies, agencies and startups</p>
+            <p className='text-sm lg:text-base'>Md Tamiz Agency Landing Page Design</p>
             <p className='text-sm lg:text-base mt-2'>
                 <i className="fa-solid fa-phone mr-3"></i>
                 +44 141 552 3000
