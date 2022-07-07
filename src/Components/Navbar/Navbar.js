@@ -37,10 +37,10 @@ function NavbarBotton() {
                     <Navigations />
                     </ul>
                 </div>
-                <a className="normal-case">
+                <Link to='/' className="normal-case">
                     <img src={logo} alt="" />
-                </a>
-                <div className="navbar-start hidden lg:flex">
+                </Link>
+                <div className="navbar-start hidden lg:flex ml-10">
                     <ul className="menu menu-horizontal p-0">
                         <Navigations />
                     </ul>

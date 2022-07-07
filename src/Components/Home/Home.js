@@ -4,6 +4,7 @@ import Serveice from './Serveice'
 import Skillls from './Skillls'
 import Spilt from './Spilt'
 import Spilt2 from './Spilt2'
+import Support from './Support'
 import Tutorial from './Tutorial'
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
             <Spilt2 />
             <Skillls />
             <Pricing />
+            <Support />
         </main>
     )
 }
